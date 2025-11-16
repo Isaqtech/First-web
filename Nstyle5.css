@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to left, rgb(137, 142, 216), rgb(189, 235, 152));
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    font-family: algerian;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    border:outset;
+}
+h3{
+    font-size: 30px;
+}
+b{
+    font-size: 25px;
+} 
+a{
+    font-size: 30px;
+}

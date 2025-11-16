@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, skyblue, white)
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    font-family: algerian;
+    font-size: 50px;
+
+}
+h2{
+    font-size: 40px;
+    border:outset;
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+
+}
+a{
+    font-size: 25px;
+}
